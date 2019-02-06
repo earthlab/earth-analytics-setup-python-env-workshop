@@ -1,0 +1,1 @@
+# earth-analytics-setup-python-env-workshop
