@@ -1,4 +1,4 @@
-# Earth Analytics Workshop Material - Setup the Earth Analytics Python Environment On Your Computer
+# Earth Analytics Workshop Materials - Setup the Earth Analytics Python Environment On Your Computer
 
 This workshop on Setup the Earth Analytics Python Environment On Your Computer is taught by instructors in <a href="https://www.colorado.edu/earthlab/" target="_blank"> Earth Lab at CU Boulder</a>. 
 
